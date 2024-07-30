@@ -1,0 +1,47 @@
+/* responsive.css */
+
+
+    @media screen and (max-width: 380px) {
+        .login_register {
+            flex-direction: column;
+            gap: 20px;
+         
+        }
+        .container{
+            display:: wrap;
+        } flex;
+            flex-wrap
+       
+    
+        .Title{
+            width: 470px;
+        }
+    
+        .got_btn{
+            width:250px;
+        }
+        .undo_delete_div{
+            display: none;
+        }
+        .delete_account{
+            margin-left: 500px;
+            
+        }
+        .end_div{
+            width: 350px;
+            margin-left: 500px;
+            margin-top: 50px;
+        }
+        .yes_btn,
+        .no_btn{
+            width: 280px;
+    
+        }
+        .no_btn{
+            margin-bottom: 100px;
+        }
+         
+    }
+    
+
+
